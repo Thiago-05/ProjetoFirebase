@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Projeto FireBase</string>
+    <string name="entar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_senha">Senha</string>
+</resources>
